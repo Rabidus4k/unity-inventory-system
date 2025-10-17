@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdd6202d7c03e0b4a8e59f30758eb29a, type: 3}
+  m_Name: ItemDefinition_Wooden_Plank
+  m_EditorClassIdentifier: 
+  id: f4272d96-5122-4b32-87a3-43f0ca2b2955
+  displayName: Wooden plank
+  icon: {fileID: 21300000, guid: 0c789446fd0968d42881579d8ac8df29, type: 3}
+  stackable: 1
+  maxStack: 64
+  type: 1
